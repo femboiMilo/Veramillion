@@ -1,5 +1,5 @@
 - Hello I’m @Veramillion
-- I’m interested in: AI/Machine Learning, Programming, Game-Dev, Digital Art, C/C++ general/MISRA Compliant for vehicles
+- I’m interested in: AI/Machine Learning, Programming, Game-Dev, Digital Art, C/C++, MISRA Compliant C/C++ for vehicles
 - I’m currently learning: AI
 - I’m looking to collaborate on: Nothing at the time.
 - How to reach me: Please PM me for details.
